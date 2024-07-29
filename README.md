@@ -1,2 +1,2 @@
 # Static-Website
-Created a static website using HTML and CSS
+This repository contains the code for a simple static website built using HTML and CSS. The purpose of this project is to demonstrate the fundamentals of web development and provide a template for creating basic websites.
